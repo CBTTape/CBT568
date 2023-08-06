@@ -1,0 +1,12 @@
+2023-08-06 05:16:23.627492 - Initialized conversion of CBT568
+2023-08-06 05:16:23.689912 - Received CBT.V505.FILE568.PDS from FILE568.XMI 
+2023-08-06 05:16:23.691061 - Found ZNC1010P.bin containing application/octet-stream, moved to PDS/ZNC1010P
+2023-08-06 05:16:23.692074 - Found ZNC1020P.bin containing application/octet-stream, moved to PDS/ZNC1020P
+2023-08-06 05:16:23.693497 - Found ZNC1030P.bin containing application/octet-stream, moved to PDS/ZNC1030P
+2023-08-06 05:16:23.694405 - Found ZNC1040P.bin containing application/octet-stream, moved to PDS/ZNC1040P
+2023-08-06 05:16:23.695321 - Found ZNC1050P.bin containing application/octet-stream, moved to PDS/ZNC1050P
+2023-08-06 05:16:23.696405 - Found ZNC1060P.bin containing application/octet-stream, moved to PDS/ZNC1060P
+2023-08-06 05:16:23.697293 - Found ZNC1070P.bin containing application/octet-stream, moved to PDS/ZNC1070P
+2023-08-06 05:16:23.698314 - Found ZNC1080P.bin containing application/octet-stream, moved to PDS/ZNC1080P
+2023-08-06 05:16:23.699488 - Found ZNC1110P.bin containing application/octet-stream, moved to PDS/ZNC1110P
+2023-08-06 05:16:23.700422 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
