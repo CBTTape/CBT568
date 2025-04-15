@@ -1,10 +1,10 @@
-2025-04-15 03:36:21.844217 - Received CBT.V508.FILE568.PDS from FILE568.XMI 
-2025-04-15 03:36:21.845755 - Found ZNC1010P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1010P
-2025-04-15 03:36:21.846453 - Found ZNC1020P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1020P
-2025-04-15 03:36:21.847068 - Found ZNC1030P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1030P
-2025-04-15 03:36:21.847730 - Found ZNC1040P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1040P
-2025-04-15 03:36:21.848398 - Found ZNC1050P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1050P
-2025-04-15 03:36:21.848945 - Found ZNC1060P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1060P
-2025-04-15 03:36:21.849461 - Found ZNC1070P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1070P
-2025-04-15 03:36:21.850312 - Found ZNC1080P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1080P
-2025-04-15 03:36:21.850646 - Found ZNC1110P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1110P
+2025-04-15 22:24:05.100124 - Received CBT.V508.FILE568.PDS from FILE568.XMI 
+2025-04-15 22:24:05.101860 - Found ZNC1010P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1010P
+2025-04-15 22:24:05.102562 - Found ZNC1020P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1020P
+2025-04-15 22:24:05.103184 - Found ZNC1030P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1030P
+2025-04-15 22:24:05.103955 - Found ZNC1040P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1040P
+2025-04-15 22:24:05.104627 - Found ZNC1050P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1050P
+2025-04-15 22:24:05.105235 - Found ZNC1060P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1060P
+2025-04-15 22:24:05.105955 - Found ZNC1070P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1070P
+2025-04-15 22:24:05.106948 - Found ZNC1080P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1080P
+2025-04-15 22:24:05.107324 - Found ZNC1110P.bin (application/octet-stream) in CBT.V508.FILE568.PDS, moved to PDS/ZNC1110P
